@@ -1,10 +1,29 @@
-# iOS-Core-SDK v 3.3.8
-Release candidate v3.3.8 of the LP mobile library for iOS native application (replacing release candidate 3.3.7 on 12/17/2015), supports iOS 6.0+.
+# iOS-Core-SDK - Version 3.4.0
+Release candidate v3.4.0 of the LP mobile library for iOS native application.
+Replaces release candidate 3.3.8 on 03/16/2016.
 
+## What’s new?
+* iOS 8.0+ support
+* iOS 10 ready
+* Present Photo library / Camera  when hosting App permissions are set
+* Show chat lines from bottom to top (requires feature enablement)
+* Performance enhancement
+* Security fixes and UI enhancements
+* Minor UI fix
 
-
-Adds architecture for x86_64, arm64 to version 3.3.7 which included bug fixes, full bitcode support.
-
-
-
-Maintains support for secure form SSO, iOS 8, iPhone 6/6 Plus, multiple accounts, full custom branding & colors, flat UI, automatic call deflection reporting, incoming notification type, under-keyboard menu, draggable chat tab, sending of web content, custom fonts, and enhanced accessibility.
+## Support is maintained for:
+* Secure form SSO
+* iOS 8
+* iPhone 7/7 Plus
+* Multiple accounts
+* Full custom branding & colors
+* Flat UI
+* Automatic call deflection reporting
+* Incoming notification type
+* Under-keyboard menu
+* Draggable chat tab
+* Sending of web content
+* Custom fonts
+* Enhanced accessibility.
+* Adds architecture for x86_64, arm64
+* Full bitcode support
